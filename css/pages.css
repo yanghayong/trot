@@ -1,0 +1,24 @@
+.container h2 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.container video {
+  width: 1200px;
+  height: 730px;
+}
+
+.text_box {
+  padding: 62px 120px 70px 117px;
+}
+
+.text_box p {
+  font-size: 16px;
+  margin-bottom: 36px;
+}
+
+/* .footer {
+        border-top: 1px solid rgba(0, 0, 0, 0.4);
+        padding: 170px 0 74px 0;
+      } */
