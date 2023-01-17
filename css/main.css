@@ -61,6 +61,7 @@ h1 {
   padding: 38px 0;
   border-top: 1px solid rgba(0, 0, 0, 0.4);
   border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+  font-weight: bold;
 }
 
 .contents {
@@ -88,6 +89,59 @@ h1 {
 .trot li .text_box h3 {
   margin-top: 10px;
   margin-bottom: 24px;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.ost {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.ost ul {
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+}
+
+.ost .title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 53px;
+}
+
+.ost .title h2 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.ost ul li {
+  display: flex;
+}
+
+.ost ul li .movie video {
+  width: 380px;
+}
+
+.ost ul li .text_box {
+  margin: 26px 38px;
+}
+
+.ost ul li .text_box h3 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.ost ul li .text_box p {
+  margin-top: 22px;
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+
+.ost ul li .text_box .gps {
+  font-size: 20px;
+  font-weight: bold;
 }
 
 .footer {
