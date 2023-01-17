@@ -12,10 +12,15 @@
 .text_box {
   padding: 62px 120px 70px 117px;
 }
+.text_box h3 {
+  font-weight: bold;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
 
 .text_box p {
-  font-size: 16px;
-  margin-bottom: 36px;
+  font-size: 18px;
+  margin-bottom: 35px;
 }
 
 /* .footer {
